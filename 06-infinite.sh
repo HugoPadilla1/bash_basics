@@ -22,4 +22,8 @@ while true; do
 
   nslookup "$hostname"
   echo ""
+<<<<<<< HEAD
+=======
+  echo "This is different for the second Assignment."
+>>>>>>> 0791a95d7073284626ad7b40ce803e80075c6f07
 done
